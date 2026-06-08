@@ -1,2 +1,6 @@
-# my-portfolio-v2
-Activity
+# My Portfolio App
+
+A multipage portfolio website built using Streamlit.
+
+Created By: 
+Hazel Ann F. Coja
